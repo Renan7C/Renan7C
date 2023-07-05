@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/renanc7">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanc7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanc7&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan7c&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan7c&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -19,6 +19,6 @@
 <div> 
  
  
-  ![Snake animation](https://github.com/renanc7/renanc7/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/renan7c/renan7c/blob/output/github-contribution-grid-snake.svg)
 
 </div>
